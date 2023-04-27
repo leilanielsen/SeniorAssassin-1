@@ -42,8 +42,8 @@ class Senior:
 
 
 seniors_array = []
-from_address = ""
-password = ""
+from_address = "leilavn2005@gmail.com"
+password = "Yoyo@2005"
 
 # Tkinter Window Setup
 main = Tk()
